@@ -1,0 +1,66 @@
+@font-face {
+  font-family: "Inter";
+  font-weight: 400;
+  font-style: normal;
+  src:
+    local("Inter"),
+    url("../fonts/Inter_18pt-Regular.woff2") format('woff2'),
+    url("../fonts/Inter_18pt-Regular.woff") format('woff'),
+    url("../fonts/Inter_18pt-Regular.eot") format('eot');
+  font-display: swap;
+}
+@font-face {
+  font-family: "Manrope";
+  font-weight: 400;
+  font-style: normal;
+  src:
+    local("Manrope"),
+    url("../fonts/Manrope-Regular.woff2") format('woff2'),
+    url("../fonts/Manrope-Regular.woff") format('woff'),
+    url("../fonts/Manrope-Regular.eot") format('eot');
+  font-display: swap;
+}
+@font-face {
+  font-family: "Manrope";
+  font-weight: 300;
+  font-style: normal;
+  src:
+    local("Manrope"),
+    url("../fonts/Manrope-Light.woff2") format('woff2'),
+    url("../fonts/Manrope-Light.woff") format('woff'),
+    url("../fonts/Manrope-Light.eot") format('eot');
+  font-display: swap;
+}
+@font-face {
+  font-family: "Manrope";
+  font-weight: 500;
+  font-style: normal;
+  src:
+    local("Manrope"),
+    url("../fonts/Manrope-Medium.woff2") format('woff2'),
+    url("../fonts/Manrope-Medium.woff") format('woff'),
+    url("../fonts/Manrope-Medium.eot") format('eot');
+  font-display: swap;
+}
+@font-face {
+  font-family: "Manrope";
+  font-weight: 600;
+  font-style: normal;
+  src:
+    local("Manrope"),
+    url("../fonts/Manrope-SemiBold.woff2") format('woff2'),
+    url("../fonts/Manrope-SemiBold.woff") format('woff'),
+    url("../fonts/Manrope-SemiBold.eot") format('eot');
+  font-display: swap;
+}
+@font-face {
+  font-family: "Pixel";
+  font-weight: 400;
+  font-style: normal;
+  src:
+    local("Pixel"),
+    url("../fonts/Pixel.woff2") format('woff2'),
+    url("../fonts/Pixel.woff") format('woff'),
+    url("../fonts/Pixel.eot") format('eot');
+  font-display: swap;
+}
